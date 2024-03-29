@@ -1,0 +1,15 @@
+open terminal 
+change drive by doing d:
+npm create vite@latest 
+y
+project-name
+choose react (arrowkeys)
+choose javascript 
+project created without without node modules
+add folder in ide
+npm install
+npm run dev
+---bootstrap---install
+npm i bootstrap@(latest version from google)
+import bootstrap/dist/css/bootstrap.min.css in main.jsx
+now can use buttons from bootstrap site
